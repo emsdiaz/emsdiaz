@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emsdiaz
+- 👋 Hi, I’m Emily Diaz - @emsdiaz
 - I’m a Data Scientist with 5 years of working experience in consulting industry
 - I am currently pursuing my masters degree in Data Analytics Engineering at Northeastern University, US. My undergrad was on Statistics which I studied at University of Costa Rica (UCR)
 - I'm originally from Costa Rica, my first language is Spanish and I'm currently based in Boston, US
